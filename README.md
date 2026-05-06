@@ -42,6 +42,6 @@ Construir soluções digitais eficientes, escaláveis e bem estruturadas, ajudan
 Contato
 - GitHub:[kaikyfonseca-alt](https://github.com/kaikyfonseca-alt)
 - LinkedIn: [Kaiky Fonseca](https://www.linkedin.com/in/kaiky-fonsecadev)
-- E-mail: [anonima007@gmail.com](mailto:anonima007@gmail.com)
+- E-mail: [anonima007@gmail.com](mailto:anonima007@gmail.com
 - LinkedIn: **adicione seu LinkedIn aqui**
 - E-mail: **adicione seu e-mail aqui**
